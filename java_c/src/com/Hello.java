@@ -12,6 +12,5 @@ public class Hello {
 		System.out.println("哈是的撒事实上11111");
 		System.out.println("哈是的撒事实上11111");
 		System.out.println("t66666666666s6");
-		System.out.println("tt666666666666");
 	}
 }
